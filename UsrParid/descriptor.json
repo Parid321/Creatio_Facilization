@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "2ca3a98d-6133-a403-8f70-8bd82ce9d58c",
+    "Name": "UsrParid",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1780093135000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrParid.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}
