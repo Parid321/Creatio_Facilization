@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "cade233d-ef10-476d-a76f-a3a432520b2b",
+    "Name": "UsrRealtyTypeListPage",
+    "ModifiedOnUtc": "\/Date(1780396804000)\/",
+    "Parent": {
+      "UId": "97e48060-149c-408f-9f17-8ba82c400249",
+      "Name": "PageWithAreaFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Type List Page"
+  }
+}

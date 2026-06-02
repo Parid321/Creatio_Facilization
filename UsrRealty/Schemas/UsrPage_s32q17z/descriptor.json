@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "536e82ac-4a8b-4c7b-b8ae-d4baf56af531",
+    "Name": "UsrPage_s32q17z",
+    "ModifiedOnUtc": "\/Date(1780396379000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Type modal page"
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "75f542ef-5370-4e31-a09c-822604b74164",
+    "Name": "UsrFormOfPayment",
+    "ModifiedOnUtc": "\/Date(1780312435000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Form of payment",
+    "DependsOn": []
+  }
+}

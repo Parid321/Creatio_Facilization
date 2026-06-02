@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty form page" />
+			<Item Name="LocalizableStrings.addRecord_by7ldzl_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_jjctj6i_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_rd85nro_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ybj3xv6_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>
