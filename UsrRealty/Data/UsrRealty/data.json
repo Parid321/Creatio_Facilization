@@ -1,0 +1,244 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4de1980a-87f0-43a3-b7e4-5da9afe96de0"
+        },
+        {
+          "SchemaColumnUId": "1c00a2e1-087c-eb6c-2db0-cfc052c49711",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "327401f5-ac93-8d80-679b-b90954334667",
+          "Value": "db4582c6-8e79-4f42-8457-911d90acbf1e",
+          "DisplayValue": "1. House"
+        },
+        {
+          "SchemaColumnUId": "4a858d9d-a2bd-d596-3ee3-a276e25a9809",
+          "Value": "Rlt - 001"
+        },
+        {
+          "SchemaColumnUId": "50af23e1-cee6-0e58-15c7-d10ba7f8f5b4",
+          "Value": "Super-shitje"
+        },
+        {
+          "SchemaColumnUId": "8ed2d0ca-d669-4e42-99ad-bad6d1231461",
+          "Value": "House in Amsterdam"
+        },
+        {
+          "SchemaColumnUId": "a93a4ec4-1066-ebb3-5b85-303979b91dd1",
+          "Value": "8746bc3c-0eae-422a-9066-d13d57375cbe",
+          "DisplayValue": "1. Sale"
+        },
+        {
+          "SchemaColumnUId": "b1663f2e-793e-b766-370f-5b4413c9ab0c",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "bfa98625-03ac-8609-a169-582eb32d6310",
+          "Value": 200000.00
+        },
+        {
+          "SchemaColumnUId": "c7a73304-640d-140e-b1e5-9528c6db0ffe",
+          "Value": 2000.000
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9adafc69-3c7e-40a9-92ba-94beec47430e"
+        },
+        {
+          "SchemaColumnUId": "1c00a2e1-087c-eb6c-2db0-cfc052c49711",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "327401f5-ac93-8d80-679b-b90954334667",
+          "Value": "6a48cf96-cf93-42b4-99f5-921460bafaee",
+          "DisplayValue": "2. Apartment"
+        },
+        {
+          "SchemaColumnUId": "4a858d9d-a2bd-d596-3ee3-a276e25a9809",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "50af23e1-cee6-0e58-15c7-d10ba7f8f5b4",
+          "Value": "Qera mujore"
+        },
+        {
+          "SchemaColumnUId": "8ed2d0ca-d669-4e42-99ad-bad6d1231461",
+          "Value": "Apartment in Astir"
+        },
+        {
+          "SchemaColumnUId": "a93a4ec4-1066-ebb3-5b85-303979b91dd1",
+          "Value": "f890f7d5-2ba6-4fed-a791-c8d335661b2b",
+          "DisplayValue": "2. Rental"
+        },
+        {
+          "SchemaColumnUId": "b1663f2e-793e-b766-370f-5b4413c9ab0c",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "bfa98625-03ac-8609-a169-582eb32d6310",
+          "Value": 1000.00
+        },
+        {
+          "SchemaColumnUId": "c7a73304-640d-140e-b1e5-9528c6db0ffe",
+          "Value": 1200.000
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b45590ed-7043-4ebc-9c95-8f3dd143b94e"
+        },
+        {
+          "SchemaColumnUId": "1c00a2e1-087c-eb6c-2db0-cfc052c49711",
+          "Value": "009be1ae-6711-4f5d-939e-8083aaa7df59",
+          "DisplayValue": "2. Kredit"
+        },
+        {
+          "SchemaColumnUId": "327401f5-ac93-8d80-679b-b90954334667",
+          "Value": "db4582c6-8e79-4f42-8457-911d90acbf1e",
+          "DisplayValue": "1. House"
+        },
+        {
+          "SchemaColumnUId": "4a858d9d-a2bd-d596-3ee3-a276e25a9809",
+          "Value": "Rlt - 004"
+        },
+        {
+          "SchemaColumnUId": "50af23e1-cee6-0e58-15c7-d10ba7f8f5b4",
+          "Value": "shpi fiks"
+        },
+        {
+          "SchemaColumnUId": "8ed2d0ca-d669-4e42-99ad-bad6d1231461",
+          "Value": "Shpia e klevit"
+        },
+        {
+          "SchemaColumnUId": "a93a4ec4-1066-ebb3-5b85-303979b91dd1",
+          "Value": "8746bc3c-0eae-422a-9066-d13d57375cbe",
+          "DisplayValue": "1. Sale"
+        },
+        {
+          "SchemaColumnUId": "b1663f2e-793e-b766-370f-5b4413c9ab0c",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "bfa98625-03ac-8609-a169-582eb32d6310",
+          "Value": 20000.00
+        },
+        {
+          "SchemaColumnUId": "c7a73304-640d-140e-b1e5-9528c6db0ffe",
+          "Value": 100.000
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c8692ad5-743d-429c-91a9-bb13e4f9361c"
+        },
+        {
+          "SchemaColumnUId": "1c00a2e1-087c-eb6c-2db0-cfc052c49711",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "327401f5-ac93-8d80-679b-b90954334667",
+          "Value": "db4582c6-8e79-4f42-8457-911d90acbf1e",
+          "DisplayValue": "1. House"
+        },
+        {
+          "SchemaColumnUId": "4a858d9d-a2bd-d596-3ee3-a276e25a9809",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "50af23e1-cee6-0e58-15c7-d10ba7f8f5b4",
+          "Value": "Shtepia Mike"
+        },
+        {
+          "SchemaColumnUId": "8ed2d0ca-d669-4e42-99ad-bad6d1231461",
+          "Value": "House in West Yarmouth"
+        },
+        {
+          "SchemaColumnUId": "a93a4ec4-1066-ebb3-5b85-303979b91dd1",
+          "Value": "8746bc3c-0eae-422a-9066-d13d57375cbe",
+          "DisplayValue": "1. Sale"
+        },
+        {
+          "SchemaColumnUId": "b1663f2e-793e-b766-370f-5b4413c9ab0c",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "bfa98625-03ac-8609-a169-582eb32d6310",
+          "Value": 75000.00
+        },
+        {
+          "SchemaColumnUId": "c7a73304-640d-140e-b1e5-9528c6db0ffe",
+          "Value": 1200.000
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d36693c4-0bb4-4d52-b2b6-6c3a0e595985"
+        },
+        {
+          "SchemaColumnUId": "1c00a2e1-087c-eb6c-2db0-cfc052c49711",
+          "Value": "009be1ae-6711-4f5d-939e-8083aaa7df59",
+          "DisplayValue": "2. Kredit"
+        },
+        {
+          "SchemaColumnUId": "327401f5-ac93-8d80-679b-b90954334667",
+          "Value": "db4582c6-8e79-4f42-8457-911d90acbf1e",
+          "DisplayValue": "1. House"
+        },
+        {
+          "SchemaColumnUId": "4a858d9d-a2bd-d596-3ee3-a276e25a9809",
+          "Value": "Rlt - 002"
+        },
+        {
+          "SchemaColumnUId": "50af23e1-cee6-0e58-15c7-d10ba7f8f5b4",
+          "Value": "Super shitje"
+        },
+        {
+          "SchemaColumnUId": "8ed2d0ca-d669-4e42-99ad-bad6d1231461",
+          "Value": "House in Lake Michigan"
+        },
+        {
+          "SchemaColumnUId": "a93a4ec4-1066-ebb3-5b85-303979b91dd1",
+          "Value": "8746bc3c-0eae-422a-9066-d13d57375cbe",
+          "DisplayValue": "1. Sale"
+        },
+        {
+          "SchemaColumnUId": "b1663f2e-793e-b766-370f-5b4413c9ab0c",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "bfa98625-03ac-8609-a169-582eb32d6310",
+          "Value": 500000.00
+        },
+        {
+          "SchemaColumnUId": "c7a73304-640d-140e-b1e5-9528c6db0ffe",
+          "Value": 2000.000
+        }
+      ]
+    }
+  ]
+}
