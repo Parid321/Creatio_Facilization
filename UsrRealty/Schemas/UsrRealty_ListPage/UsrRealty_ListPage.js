@@ -28,7 +28,7 @@ define("UsrRealty_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 				"name": "ListContainer",
 				"parentName": "SectionContentWrapper",
 				"propertyName": "items",
-				"index": 0
+				"index": 1
 			},
 			{
 				"operation": "merge",
@@ -87,6 +87,48 @@ define("UsrRealty_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						"filters": []
 					}
 				}
+			},
+			{
+				"operation": "insert",
+				"name": "QuickFilterType",
+				"values": {
+					"type": "crt.QuickFilter",
+					"config": {
+						"caption": "#ResourceString(QuickFilterType_caption)#",
+						"hint": "",
+						"icon": "filter-column-icon",
+						"iconPosition": "left-icon",
+						"defaultValue": [],
+						"entitySchemaName": "UsrRealtyType",
+						"recordsFilter": null
+					},
+					"_filterOptions": {
+						"expose": [
+							{
+								"attribute": "QuickFilterType_Items",
+								"converters": [
+									{
+										"converter": "crt.QuickFilterAttributeConverter",
+										"args": [
+											{
+												"target": {
+													"viewAttributeName": "Items",
+													"filterColumn": "UsrType"
+												},
+												"quickFilterType": "lookup"
+											}
+										]
+									}
+								]
+							}
+						],
+						"from": "QuickFilterType_Value"
+					},
+					"filterType": "lookup"
+				},
+				"parentName": "SectionContentWrapper",
+				"propertyName": "items",
+				"index": 0
 			}
 		]/**SCHEMA_VIEW_CONFIG_DIFF*/,
 		viewModelConfigDiff: /**SCHEMA_VIEW_MODEL_CONFIG_DIFF*/[
@@ -124,6 +166,38 @@ define("UsrRealty_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 							"path": "PDS.CreatedOn"
 						}
 					}
+				}
+			},
+			{
+				"operation": "merge",
+				"path": [
+					"attributes",
+					"Items",
+					"modelConfig"
+				],
+				"values": {
+					"filterAttributes": [
+						{
+							"loadOnChange": true,
+							"name": "FolderTree_active_folder_filter"
+						},
+						{
+							"name": "Items_PredefinedFilter",
+							"loadOnChange": true
+						},
+						{
+							"name": "LookupQuickFilterByTag_Items",
+							"loadOnChange": true
+						},
+						{
+							"name": "SearchFilter_Items",
+							"loadOnChange": true
+						},
+						{
+							"name": "QuickFilterType_Items",
+							"loadOnChange": true
+						}
+					]
 				}
 			},
 			{

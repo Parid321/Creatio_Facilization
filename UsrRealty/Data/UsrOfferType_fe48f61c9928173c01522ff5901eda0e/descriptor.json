@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "fe48f61c-9928-173c-0152-2ff5901eda0e",
     "Name": "UsrOfferType_fe48f61c9928173c01522ff5901eda0e",
-    "ModifiedOnUtc": "\/Date(1780311610000)\/",
+    "ModifiedOnUtc": "\/Date(1780479449000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "86e944ad-5460-453a-9341-e3a2b803a4b1",
@@ -10,24 +10,10 @@
     },
     "Columns": [
       {
-        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-        "IsForceUpdate": false,
-        "IsKey": true,
-        "ColumnName": "Id",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
-      },
-      {
         "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
         "IsForceUpdate": false,
         "IsKey": false,
         "ColumnName": "Description",
-        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
-      },
-      {
-        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "Name",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
@@ -38,11 +24,32 @@
         "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
       },
       {
+        "ColumnUId": "340c63f2-41c0-f0ef-4d1c-b516d54ee837",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrComissionPercent",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
         "ColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
         "IsForceUpdate": false,
         "IsKey": false,
         "ColumnName": "ModifiedOn",
         "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       }
     ]
   }
