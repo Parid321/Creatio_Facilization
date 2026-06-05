@@ -8,6 +8,7 @@
 			<Item Name="LocalizableStrings.addRecord_rd85nro_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_ybj3xv6_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 100sqft" />
+			<Item Name="LocalizableStrings.CategoryMultiselect_label.Value" Value="Categories" />
 			<Item Name="LocalizableStrings.ExpansionPanel_qgr0hmk_title.Value" Value="Realty Visit" />
 			<Item Name="LocalizableStrings.GridDetailAddBtn_h8wlgw9_caption.Value" Value="New" />
 			<Item Name="LocalizableStrings.GridDetailExportDataBtn_m573ssl_caption.Value" Value="Export to Excel" />
