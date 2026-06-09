@@ -1,13 +1,13 @@
 ﻿{
   "Descriptor": {
-    "UId": "a8b6026f-ac5e-45d2-b85e-ea77dfcbf83f",
-    "Name": "UsrRealty_FormPage",
-    "ModifiedOnUtc": "\/Date(1780907352000)\/",
+    "UId": "482b5847-02f1-4353-a269-6e1db3bebd58",
+    "Name": "UsrAvgPriceOutputPage",
+    "ModifiedOnUtc": "\/Date(1780994397000)\/",
     "Parent": {
       "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
       "Name": "PageWithTabsFreedomTemplate"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Realty form page"
+    "Caption": "Average Price Output Page"
   }
 }
